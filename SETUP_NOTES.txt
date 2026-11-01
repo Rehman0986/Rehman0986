@@ -1,0 +1,11 @@
+GitHub Profile README package for Rehman0986
+
+1. Create a public repository named exactly: Rehman0986
+2. Upload README.md and the assets/ directory to the repository root.
+3. GitHub renders README.md as the profile README when the repository is public and its name matches the username.
+
+Notes:
+- Public email intentionally omitted.
+- Certifications, teaching/mentoring, awards, and extra social links omitted because they were not provided.
+- Timeline uses the supplied education and internship dates.
+- GitHub stats cards are third-party embeds and may occasionally be unavailable due to service limits.

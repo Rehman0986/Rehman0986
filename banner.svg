@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Animated profile banner for Abdul Rehman, Python Backend Developer, featuring Python, Django, Django REST Framework, FastAPI, PostgreSQL, and Docker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10172a"/>
+      <stop offset="52%" stop-color="#25234f"/>
+      <stop offset="100%" stop-color="#073b43"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="125" fill="#7c3aed" opacity=".15"/>
+  <circle cx="1110" cy="230" r="150" fill="#14b8a6" opacity=".12"/>
+  <path d="M0 260 C220 220 330 310 540 260 S920 210 1200 260" fill="none" stroke="url(#line)" stroke-width="2" opacity=".55"/>
+  <path d="M0 260 C220 220 330 310 540 260 S920 210 1200 260" fill="none" stroke="url(#line)" stroke-width="8" opacity=".12" filter="url(#glow)"/>
+  <text x="64" y="102" fill="#a5b4fc" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" letter-spacing="4">GITHUB PROFILE</text>
+  <text x="60" y="160" fill="#ffffff" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="750">Abdul Rehman</text>
+  <text x="64" y="197" fill="#dbeafe" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="23">Python Backend Developer</text>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">
+    <g transform="translate(64 225)"><rect width="100" height="34" rx="17" fill="#1e3a5f" stroke="#60a5fa"/><text x="50" y="22" fill="#dbeafe" text-anchor="middle">Python</text></g>
+    <g transform="translate(174 225)"><rect width="100" height="34" rx="17" fill="#243c38" stroke="#34d399"/><text x="50" y="22" fill="#d1fae5" text-anchor="middle">Django</text></g>
+    <g transform="translate(284 225)"><rect width="150" height="34" rx="17" fill="#3b244c" stroke="#c084fc"/><text x="75" y="22" fill="#f3e8ff" text-anchor="middle">Django REST</text></g>
+    <g transform="translate(444 225)"><rect width="100" height="34" rx="17" fill="#143f42" stroke="#2dd4bf"/><text x="50" y="22" fill="#ccfbf1" text-anchor="middle">FastAPI</text></g>
+    <g transform="translate(554 225)"><rect width="130" height="34" rx="17" fill="#1e3a5f" stroke="#60a5fa"/><text x="65" y="22" fill="#dbeafe" text-anchor="middle">PostgreSQL</text></g>
+    <g transform="translate(694 225)"><rect width="100" height="34" rx="17" fill="#3b244c" stroke="#c084fc"/><text x="50" y="22" fill="#f3e8ff" text-anchor="middle">Docker</text></g>
+  </g>
+  <circle cx="1135" cy="45" r="5" fill="#2dd4bf"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="80" r="3" fill="#a78bfa"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
