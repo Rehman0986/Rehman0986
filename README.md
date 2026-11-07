@@ -1,39 +1,39 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Abdul Rehman — Python Backend Developer" width="100%">
+<img src="banner.svg" alt="Abdul Rehman — Python Backend Developer" width="100%">
 
 <p>
   <a href="https://github.com/Rehman0986"><img src="https://img.shields.io/badge/GitHub-Rehman0986-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/abdul-rehman657/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
 </div>
 
-## <img src="assets/section-about.svg" alt="About Me" width="30">
+## <img src="section-about.svg" alt="About Me" width="30">
 
 I'm a **Python Backend Developer** with hands-on experience building RESTful APIs and backend systems using Python, Django, Django REST Framework, and Flask. My work and projects cover authentication, role-based access control, database design, background processing, API testing, and production-oriented backend development.
 
-<img src="assets/highlights.svg" alt="Profile highlights: 3 projects, 1 internship, 1 degree, 4 core backend technologies" width="100%">
+<img src="highlights.svg" alt="Profile highlights: 3 projects, 1 internship, 1 degree, 4 core backend technologies" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-experience.svg" alt="Experience" width="30">
+## <img src="section-experience.svg" alt="Experience" width="30">
 
 | Role | Organization | Dates | Focus |
 |---|---|---|---|
 | Python Intern | IT Virtual House | Feb 2026 – Apr 2026 | Python fundamentals, problem-solving, NumPy, Pandas, MySQL, relational database concepts, and SQL queries |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-timeline.svg" alt="Career Timeline" width="30">
+## <img src="section-timeline.svg" alt="Career Timeline" width="30">
 
-<img src="assets/timeline.svg" alt="Timeline: BS Computer Science, University of Sahiwal, 2021–2025; Python Intern, IT Virtual House, February–April 2026" width="100%">
+<img src="timeline.svg" alt="Timeline: BS Computer Science, University of Sahiwal, 2021–2025; Python Intern, IT Virtual House, February–April 2026" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-projects.svg" alt="What I've Worked On / Projects" width="30">
+## <img src="section-projects.svg" alt="What I've Worked On / Projects" width="30">
 
 ### [Campus Tag – Lost & Found System](https://github.com/Rehman0986/Campus-Tag-Lost-and-Found)
 
@@ -62,9 +62,9 @@ I'm a **Python Backend Developer** with hands-on experience building RESTful API
 - Developed cart, checkout, order lifecycle tracking, coupon validation, and configurable payment-method management.
 - Created an admin-only back office with protected management screens, JWT-based authentication, and SQLite database migrations.
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-stack.svg" alt="Tech Stack" width="30">
+## <img src="section-stack.svg" alt="Tech Stack" width="30">
 
 **Backend**
 <br>
@@ -106,9 +106,9 @@ I'm a **Python Backend Developer** with hands-on experience building RESTful API
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-competencies.svg" alt="Core Competencies" width="30">
+## <img src="section-competencies.svg" alt="Core Competencies" width="30">
 
 | Area | Skills and concepts |
 |---|---|
@@ -119,30 +119,30 @@ I'm a **Python Backend Developer** with hands-on experience building RESTful API
 | Testing & delivery | API testing with Postman, Docker, Render, CI/CD fundamentals |
 | Programming foundations | Python, JavaScript, object-oriented programming (OOP) |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-education.svg" alt="Education & Certifications" width="30">
+## <img src="section-education.svg" alt="Education & Certifications" width="30">
 
 **BS Computer Science** — University of Sahiwal  
 2021–2025
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## <img src="assets/section-stats.svg" alt="GitHub Stats" width="30">
+## <img src="section-stats.svg" alt="GitHub Stats" width="30">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rehman0986&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics for Rehman0986" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rehman0986&hide_border=true&theme=tokyonight" alt="GitHub contribution streak for Rehman0986" height="165">
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="divider.svg" alt="" width="100%">
 
-## <img src="assets/section-connect.svg" alt="Let's Connect" width="30">
+## <img src="section-connect.svg" alt="Let's Connect" width="30">
 
 - **GitHub:** [@Rehman0986](https://github.com/Rehman0986)
 - **LinkedIn:** [abdul-rehman657](https://www.linkedin.com/in/abdul-rehman657/)
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <img src="divider.svg" alt="" width="100%">
   <sub>Thanks for visiting my profile.</sub>
 </div>
